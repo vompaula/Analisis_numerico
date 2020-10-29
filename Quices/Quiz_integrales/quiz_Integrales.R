@@ -6,7 +6,7 @@ library(plotly)
 
 simpson <- function(x, y, n) {
   
-  s = ((x[n]-x[1])/6) * (y[1] + 4*((x[1]+x[n])/2) +  + y[n])
+  s = ((x[n]-x[1])/6) * (y[1] + 4*((x[1]+x[n])/2) + y[n])
   
   return(s)
 }
