@@ -1,6 +1,7 @@
 #Puntos
 #(0.1, 1.8), (0.2, 2.6), (0.3, 3.0), (0.4, 2.8), (0.5, 1.9)
 
+options(digits = 4)
 library(plotly)
 
 simpson <- function(x, y, n) {
