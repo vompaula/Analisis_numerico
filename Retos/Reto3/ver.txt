@@ -1,0 +1,7 @@
+Para manejar el modelo lince-liebre nos basmos en este documento
+
+LINCE IBÉRICO Y CONEJO: UNA RELACIÓN CLAVE EN LA CONSERVACIÓN DEL LINCE. Iberlinx.com. (2020). Retrieved 24 November 2020, from http://www.iberlinx.com/esp/index.php?option=com_content&view=article&id=8:lince-iberico-e-coelho-bravo-uma-relacao-chave-na-conservacao-do-lince&catid=6:artigo&Itemid=9.
+
+Se realizó comparación de resultados con la gráficas de este articulo teniendo en cuenta lo que tenía que pasar si cambiábamos ciertos parámetros
+
+Á. Sáez, "Ecuaciones de Lotka-Volterra: modelo presa depredador – Pybonacci", Pybonacci.org, 2020. [Online]. Available: https://pybonacci.org/2015/01/05/ecuaciones-de-lotka-volterra-modelo-presa-depredador/. [Accessed: 26- Nov- 2020] 
